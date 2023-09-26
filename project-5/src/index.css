@@ -1,0 +1,12 @@
+
+/* tailwind.css */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your custom CSS can go here if needed */
+
+body {
+    background-color: #323334;
+}
